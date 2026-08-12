@@ -1,2 +1,2 @@
-readelf -S
-objdump -j
+readelf -S task1
+objdump -j .hbtn-custom
