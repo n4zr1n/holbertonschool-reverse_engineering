@@ -1,2 +1,2 @@
-readelf
-objdump
+readelf -S
+objdump -j
